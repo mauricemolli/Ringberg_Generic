@@ -6,23 +6,20 @@ title: Venue
 ---
 
 
-The workshop will be held at the Haus der Astronomie (HdA) at [MPIA](http://www.mpia.de/en/) in Heidelberg. HdA is the Center for Astronomy Education and Outreach in Heidelberg; more information about the center and its facilities and resources [here](http://www.haus-der-astronomie.de/).
+The conference will be held at [Ringberg Castle](https://www.schloss-ringberg.de/home), overlooking the scenic Tergensee in southern Germany. With space for roughly 50 guests on a secluded mountain top, Ringberg is a cozy spot conducive to vibrant scientific discussion, brainstorming new ideas, feasting and merriment, and (if you dare) four-person chess. 
 
 ## Accessibility
 
-HdA is accessible to disabled persons, and dedicated parking spaces are available. Unfortunately, the buses dedicated to the event and public transportations may not be accessible for everyone. However, there are specific taxi services in Heidelberg that we can arrange on-demand. Don't hesitate to contact us if you need any assistance or have any questions.
+Ringberg is wheelchair accessible (see this page for more detailed [information](https://www.schloss-ringberg.de/137267/barrierefreiheit)). If you require any other accomodations for your stay at the castle, please contact the organizers.
 
-Note that mobile phone connectivity at/around the HdA is at best poor but usually non-existent.
-
-<img src="static/img/hda.jpeg" alt="venue" width=360px style="float: right;">
+<img src="static/img/dukes_study.jpeg" alt="venue" width=360px style="float: right;">
 
 ## Address
 
 
-**Max Planck Institute for Astronomy**
+**Tagungsstätte Schloss Ringberg**
 
-Königstuhl 17
+Schloßstraße 20
+D-83700 Reitrain
 
-69117 Heidelberg, Germany
-
-[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/pFR9gC1XdBXY6EtY7)
+[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/QRAf5xhC9wd31crA6)
