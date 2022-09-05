@@ -3,13 +3,13 @@
 type: index
 
 event:
-    - title: GaiaUnlimited Community Workshop #1
-    - subtitle: The Gaia selection function and how to use the GaiaUnlimited tools
-    - date: 13-15 September 2022
-    - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
+    - title: ADD EVENT TITLE 
+    - subtitle: ADD EVENT SUBTITLE
+    - date: ADD DATE 
+    - venue: Ringberg Castle, Bavaria, Germany
 
 organizers:
-    - name: The Gaia Unlimited Team
+    - name: [ADD ORGANIZERS] 
     - url: https://gaia-unlimited.org
     # - logo: https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png
     - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA
