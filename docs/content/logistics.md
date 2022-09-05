@@ -5,28 +5,27 @@ active: true
 title: Logistics
 ---
 
-The workshop will start at 09:00 on Tuesday, September 13 2022, and finish at 16:00 on Thursday, September 15 2022.
+## <i class="fa-solid fa-map"></i> Where
+The workshop will take place at Ringberg Castle, Bavaria, Germany. 
 
-There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below).
-Participants are responsible for organizing their travel to Heidelberg and should make their own accommodation arrangements (see below).
+## <i class="fa-solid fa-clock"></i> When
+The workshop will start at X on Xday, Xmonth Xday Xyear, and finishes at X on Xday, Xmonth Xday Xyear.
 
-## <i class="fa-solid fa-coins"></i> Financial
+## <i class="fa-solid fa-virus-covid-slash"></i> COVID vigilance
+<p style="color:red;">We will likely have tests.
+What are current COVID regulations at the time of the meeting (also in terms of masking, traveling)? Update!</p>
 
-There is no conference fee. All events happening at the venue (coffee breaks, lunches, reception) are covered, but we cannot offer travel or lodging support.
+## <i class="fa-solid fa-coins"></i> Workshop fee
+The workshop fee will be €X. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred (welcome to Germany).
 
-## <i class="fa-solid fa-baby"></i> Childcare
+## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
-If you need help with childcare arrangements, don't hesitate to contact us.
+Ringberg castle provides breakfast, lunch, dinner as well as coffee breaks on site.
+These are part of the workshop fee.
 
-## <i class="fa-solid fa-drumstick-bite"></i> Lunches & Coffee Breaks
+## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
-The workshop provides lunch and coffee breaks at the venue on all workshop days. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements (and may not have indicated so in your registration form), please email [Susanne Koltes-Al-Zoubi](mailto:koltes@mpia-hd.mpg.de) well in advance.
-
-## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
-
-To foster interactions between participants, we will be providing a reception buffet dinner on Wednesday evening at the venue.
-
-_We will adapt the bus schedule accordingly._
+Our hosts at the castle will welcome us to a Bavarian style conference dinner on Wednesday evening.
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
@@ -35,28 +34,22 @@ We are committed to providing an accessible environment for all participants. If
 Participants will pay attention not to leave out information for some people in your audience.
 Some of us might not be able to see well, hear well, move well, speak well, or understand information presented in some ways well or at all.
 Everyone at the event will be open to diversity in the audience and any accessibility issues.
-The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) provides some information & directions.
 
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
+By default participants are staying in the Castle.
+Some of the rooms are shared, we will contact all participants whether they are willing to share, and under which conditions.
+It is also possible to nominate your favorite roomie :) . In case we are too many we will make reservations for participants in the village.
+We will make arrangements for shuttling people to and from the castle during the workshop.
 
-* [Hotel Vier Jahreszeiten](https://4-jahreszeiten.de/), Haspelgasse 2, Heidelberg
-* [Hotel Goldene Rose](https://www.hotel-goldene-rose.de/en-gb/home), St. Anna Gasse 7, Heidelberg
-* [Hotel Anlage](https://hotel-anlage.de/?lang=en), Friedrich-Ebert-Anlage 32, Heidelberg
-* [Hotel Monpti](https://www.hotel-monpti.de/en), Friedrich-Ebert-Anlage 57, Heidelberg
-* [Denner Hotel](http://www.denner-hotel.de/), Bergheimer Straße 8, Heidelberg
-* [GuestHouse Heidelberg](http://www.guesthouse-hd.de/ghouse/website.nsf/index.html?openpage&L=2), Bergheimer Straße 24, Heidelberg
-* [Bergheim 41](https://www.bergheim41.de/?lang=en), Bergheimer Straße 41, Heidelberg
-* [Leonardo Hotel](https://www.leonardo-hotels.com/leonardo-hotel-heidelberg-city-center), Bergheimer Straße 63, Heidelberg
-* [Qube Hotel](https://www.qube-hotel-heidelberg.de/qubef/indexen.html), Bergheimer Straße 74, Heidelberg
-* [Hotel NH](https://www.nh-hotels.com/hotel/nh-heidelberg), Bergheimer Straße 91, Heidelberg
+## <i class="fa-solid fa-question"></i> Further information
 
-_don't hesitate to contact us if you have any questions_.
+_Please don't hesitate to contact us via email <a href="mailto:ringbergorga@mpia.de">UPDATE ADDRESS</a> if you have any questions!_.
 
+<!--
 ## <i class="fa-solid fa-comments"></i> Communications
 
 This workshop is an in-person event. In addition, we will use:
 
-* <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>, [join](https://join.slack.com/t/gaiaunlimited-events/shared_invite/zt-1895akx1h-IBeUNcxXvdL8TZ53aEVLaA)
-* <a href="https://github.com/gaia-unlimited" aria-label=envelope> <i class="fa-brands fa-github" ></i></i> GaiaUnlimited GitHub</a>.
+<<a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>, [join](https://join.slack.com/t/gaiaunlimited-events/shared_invite/zt-1895akx1h-IBeUNcxXvdL8TZ53aEVLaA)?>
+-->
