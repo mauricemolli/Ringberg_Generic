@@ -19,14 +19,16 @@ LOC
 
 <p style="color:red;">To be added!</p>
 
-[//]: # (<a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>)
-[//]: # (<i class="fa-brands fa-slack" style="font-size:36px;"></i>)
-[//]: # (</a>)
-[//]: # (<a href="https://github.com/gaia-unlimited" aria-label=envelope>)
-[//]: # (<i class="fa-brands fa-github" style="font-size:36px;"></i></i>)
-[//]: # (</a>)
-[//]: # (<a href="" aria-label=envelope>)
-[//]: # (<i class="fas fa-envelope big-icon" style="font-size:36px;"></i>)
-[//]: # (</a>)
+<!--
+<a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>
+<i class="fa-brands fa-slack" style="font-size:36px;"></i>
+</a>
+<a href="https://github.com/gaia-unlimited" aria-label=envelope>
+<i class="fa-brands fa-github" style="font-size:36px;"></i></i>
+</a>
+<a href="" aria-label=envelope>
+<i class="fas fa-envelope big-icon" style="font-size:36px;"></i>
+</a>
+-->
 
 </div>

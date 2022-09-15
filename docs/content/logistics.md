@@ -9,35 +9,40 @@ title: Logistics
 The workshop will take place at Ringberg Castle, Bavaria, Germany. 
 
 ## <i class="fa-solid fa-clock"></i> When
-The workshop will start at X on Xday, Xmonth Xday Xyear, and finishes at X on Xday, Xmonth Xday Xyear.
+The workshop will start at 9 am on 7 November 2022 and finishes at X on 11 November 2022.
+<p style="color:red;">The castle is booked from 6 November in the afternoon to allow participants to arrive the day before the workshop starts.</p>
 
 ## <i class="fa-solid fa-virus-covid-slash"></i> COVID vigilance
-<p style="color:red;">We will likely have tests.
-What are current COVID regulations at the time of the meeting (also in terms of masking, traveling)? Update!</p>
+We will provide a rapid antigen COVID test for each participant for each day of the workshop.
+Testing is voluntary, but we encourage participants to test daily for the safety of all attendees.
 
 ## <i class="fa-solid fa-coins"></i> Workshop fee
-The workshop fee will be €X. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred (welcome to Germany).
+The workshop fee will be €700. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
+<p style="color:red;">Update price</p>
 
 ## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
-Ringberg castle provides breakfast, lunch, dinner as well as coffee breaks on site.
+Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site.
 These are part of the workshop fee.
 
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
 Our hosts at the castle will welcome us to a Bavarian style conference dinner on Wednesday evening.
+<p style="color:red;">Verify day and clarify details with Ringberg people.</p>
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
 We are committed to providing an accessible environment for all participants. If you need help or arrangements, don't hesitate to contact the organizers.
+Ringberg is wheelchair accessible (see this page for more detailed [information](https://www.schloss-ringberg.de/137267/barrierefreiheit)).
+If you require any other accomodations for your stay at the castle, please contact the organizers.
 
-Participants will pay attention not to leave out information for some people in your audience.
+Moreover, participants will pay attention not to leave out information for some people in your audience.
 Some of us might not be able to see well, hear well, move well, speak well, or understand information presented in some ways well or at all.
 Everyone at the event will be open to diversity in the audience and any accessibility issues.
 
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-By default participants are staying in the Castle.
+By default participants are staying in the Castle, see <a class="page-scroll" href="#section-venue">Venue</a>.
 Some of the rooms are shared, we will contact all participants whether they are willing to share, and under which conditions.
 It is also possible to nominate your favorite roomie :) . In case we are too many we will make reservations for participants in the village.
 We will make arrangements for shuttling people to and from the castle during the workshop.

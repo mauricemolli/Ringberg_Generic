@@ -22,4 +22,4 @@ Ringberg is wheelchair accessible (see this page for more detailed [information]
 Schloßstraße 20
 D-83700 Reitrain
 
-[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/QRAf5xhC9wd31crA6)
+[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/kKMfWxByVrtB7k4g9)
