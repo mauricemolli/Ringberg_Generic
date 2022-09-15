@@ -316,6 +316,17 @@ class Generator(dict):
         template = template.replace(r'{{event-title}}', event['title'])\
                            .replace(r'{{event-date}}', event['date'])\
                            .replace(r'{{event-venue}}', event['venue'])\
+                           .replace(r'{{organizer-logo}}', organizers['logo'])\
+                           .replace(r'{{imprint-url}}', imprint['url'])\
+                           .replace(r'{{imprint-name}}', imprint['name'])\
+                           .replace(r'{{privacy-policy-url}}', privacy['url'])\
+                           .replace(r'{{privacy-policy-name}}', privacy['name'])\
+                           .replace(r'{{contact-url', organizers['contact_url'])
+
+        ''' was
+        template = template.replace(r'{{event-title}}', event['title'])\
+                           .replace(r'{{event-date}}', event['date'])\
+                           .replace(r'{{event-venue}}', event['venue'])\
                            .replace(r'{{event-subtitle}}', event['subtitle'])\
                            .replace(r'{{organizer-logo}}', organizers['logo'])\
                            .replace(r'{{imprint-url}}', imprint['url'])\
@@ -323,6 +334,7 @@ class Generator(dict):
                            .replace(r'{{privacy-policy-url}}', privacy['url'])\
                            .replace(r'{{privacy-policy-name}}', privacy['name'])\
                            .replace(r'{{contact-url', organizers['contact_url'])
+        '''
 
         # keep various sections
         sections = []

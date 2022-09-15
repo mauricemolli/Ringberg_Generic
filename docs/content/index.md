@@ -3,17 +3,15 @@
 type: index
 
 event:
-    - title: ADD EVENT TITLE 
-    - subtitle: ADD EVENT SUBTITLE
-    - date: ADD DATE 
+    - title: Celebrating JWST's first six month of exoplanet data
+    # - subtitle:
+    - date: 7-11 November 2022 
     - venue: Ringberg Castle, Bavaria, Germany
 
 organizers:
-    - name: [ADD ORGANIZERS] 
-    - url: https://gaia-unlimited.org
-    # - logo: https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png
-    # - logo: ../../../../../Wichtiges/webpage/ringberg_jwst_logo/ringberg_jwst_logo_white.png
-    - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA
+    - name: Laura Kreidberg, Tom Mikal-Evans, Paul Mollière
+    - url: https://www.mpia.de
+    - logo: static/img/ringberg_jwst_logo_white.png
     - contact_url: ""
 
 imprint:
