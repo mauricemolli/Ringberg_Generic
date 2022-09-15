@@ -3,7 +3,7 @@
 type: index
 
 event:
-    - title: Celebrating JWST's first six month of exoplanet data
+    - title: Celebrating JWST's first six months of exoplanet data
     # - subtitle:
     - date: 7-11 November 2022 
     - venue: Ringberg Castle, Bavaria, Germany
