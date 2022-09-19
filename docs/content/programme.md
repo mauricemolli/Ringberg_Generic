@@ -2,17 +2,21 @@
 # Program
 type: schedule
 active: true
-title: Programme
+title: Program
 
 program:
-    - day: Tuesday
-      time: 08:30 - 09:00
-      title: Participants arrival
-      description: Registration, name tags, etc.
+    - day: Monday 
+      time: 08:00 - 09:00
+      title: Breakfast 
       highlight: true
-    - day: Tuesday
+    - day: Monday 
       time: 09:00 - 09:10
-      title: boot-up
+      title: Welcome
+      description: Logistics for the week 
+      highlight: true
+    - day: Monday 
+      time: 09:10 - 10:30
+      title: flash talks
       description: Welcome and opening remarks
       highlight: true
     - day: Tuesday
