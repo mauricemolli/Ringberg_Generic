@@ -25,10 +25,24 @@ The workshop fee will be €700. Payments via Master- and Visacard are accepted,
 Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site.
 These are part of the workshop fee.
 
+## <i class="fa-solid fa-whiskey-glass"></i> Workshop outing
+
+On Wednesday afternoon we will go on a guided tour of the [Liedschreiber destillery](https://liedschreiber.com/) and (incl. a tasting)!
+Some information about the tour:
+> During a tour of our distillery you can learn about the production of our noble brandies and fine liqueurs.
+> On the basis of the distillation plant, which is in operation during the tour,
+> visitors learn about the sequence of high-quality processes from the exquisite fruit to the noble distillate
+> and facts worth knowing about contemporary distillation technology.
+> During the subsequent tasting in the cozy tasting room with a view of the magnificent alpine scenery,
+> enjoy the delicacies from the wide range of products.
+> Cheese from regional production and fresh bread are served in a convivial atmosphere. 
+> The guided tour, including tasting, lasts about 1 1/2 to 2 hours and costs €20 per person.
+ 
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
 Our hosts at the castle will welcome us to a Bavarian style conference dinner on Wednesday evening.
-<p style="color:red;">Verify day and clarify details with Ringberg people.</p>
+
+
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
