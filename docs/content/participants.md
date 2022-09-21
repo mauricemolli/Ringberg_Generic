@@ -20,7 +20,6 @@ Participation is by invitation only.
 
 <i class="fa-solid fa-file-shield"></i> Any provided personal data are processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
 
-<i class="fa-solid fa-coins"></i> The workshop fee (incl. accommodation and food) is ~€700 for the week (exact figure to follow).
 
 <div style="font-size:30px; display:flex; justify-content: center;">
 <i class="fa-solid fa-people-group" style="margin-left: 15px;"></i>

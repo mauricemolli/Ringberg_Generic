@@ -13,11 +13,6 @@ During the community workshop, we require participants to follow the code of con
 
 The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of conference participants in any form.  As such, we follow [the European Astronomical Society Council (EAS) Ethics Statement and Guidelines for Good Practice](https://eas.unige.ch/documents/EAS_Ethics_Statement.pdf) and expect all participants to read and abide by their statements.
 
-In addition to a general Code of Conduct and Ethics, all participants must agree with our collaboration policy: i.e., to openly share their ideas, expertise, code, and interim results. Project development will proceed out in the open among participants.
+In addition to the Code of Conduct, all participants must agree that any JWST results shared at the workshop will remain confidential and may only be used with the explicit permission of the observing program PI. 
 
-Participants are encouraged to change gears, start new collaborations, and drop or combine projects. Any participant contributing significantly to a project can expect appropriate credit vessels (e.g., co-authorship).
-
-We pledge to help the entire community follow the code of conduct, and to not remain silent when we see violations of the code of conduct. We will take action when members of our community violate this code such as notifying a workshop organizer or talking privately with the person.
-This code of conduct applies to all community situations online and offline, including the conference itself, mailing lists, forums, social media, social events associates with the conference, and one-to-one interactions.
-
-Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.
+We pledge to help the entire community follow the code of conduct, and to not remain silent when we see violations of the code of conduct. We will take action when members of our community violate this code such as notifying a workshop organizer or talking privately with the person.  Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.

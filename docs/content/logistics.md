@@ -13,11 +13,10 @@ The workshop will start at 9 am on 7 November 2022 and finishes at 2 pm on 11 No
 <p style="color:red;">The castle is booked from 6 November, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
 
 ## <i class="fa-solid fa-virus-covid-slash"></i> COVID vigilance
-We will provide a rapid antigen COVID test for each participant for each day of the workshop.
-Daily testing is mandatory for all participants.
+Participants are required to provide proof of vaccination or recovery from COVID-19.  In addition, we will provide a rapid antigen COVID self-test for each participant for each day of the workshop.  Daily testing is mandatory for all participants. If you test positive or feel ill during the workshop, please inform the organisers immediately and we will arrange for a private room for you to self-isolate.
 
 ## <i class="fa-solid fa-coins"></i> Workshop fee
-The workshop fee will be ~€700. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
+The workshop fee will be approximately €720. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
 
 ## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
@@ -62,7 +61,7 @@ We will make arrangements for shuttling people to and from the castle during the
 
 ## <i class="fa-solid fa-question"></i> Further information
 
-_Please don't hesitate to contact us via email <a href="mailto:ringbergorga@mpia.de">UPDATE ADDRESS</a> if you have any questions!_.
+_Please don't hesitate to contact us via email <a href="mailto:jordan@mpia.de"></a> if you have any questions!_.
 
 <!--
 ## <i class="fa-solid fa-comments"></i> Communications
