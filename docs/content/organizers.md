@@ -9,15 +9,14 @@ title: Organizers
 
 <img src="static/img/ringberg_jwst_logo.png" alt="venue" width=360px">
 
-SOC
+SOC & LOC
 
 * Laura Kreidberg (MPIA)
 * Tom Mikal-Evans (MPIA)
 * Paul Mollière (MPIA)
+* Carola Jordan (MPIA)
 
-LOC
 
-<p style="color:red;">To be added!</p>
 
 <!--
 <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>
