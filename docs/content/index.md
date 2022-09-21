@@ -11,7 +11,7 @@ event:
 organizers:
     - name: Laura Kreidberg, Tom Mikal-Evans, Paul Mollière
     - url: https://www.mpia.de
-    - logo: static/img/ringberg_jwst_logo_white.png
+    - logo: static/img/JWST_workshop_logo_final.png
     - contact_url: ""
 
 imprint:

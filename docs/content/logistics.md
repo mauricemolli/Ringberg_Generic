@@ -9,25 +9,24 @@ title: Logistics
 The workshop will take place at Ringberg Castle, Bavaria, Germany. 
 
 ## <i class="fa-solid fa-clock"></i> When
-The workshop will start at 9 am on 7 November 2022 and finishes at X on 11 November 2022.
-<p style="color:red;">The castle is booked from 6 November in the afternoon to allow participants to arrive the day before the workshop starts.</p>
+The workshop will start at 9 am on 7 November 2022 and finishes at 2 pm on 11 November 2022.
+<p style="color:red;">The castle is booked from 6 November, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
 
 ## <i class="fa-solid fa-virus-covid-slash"></i> COVID vigilance
 We will provide a rapid antigen COVID test for each participant for each day of the workshop.
-Testing is voluntary, but we encourage participants to test daily for the safety of all attendees.
+Daily testing is mandatory for all participants.
 
 ## <i class="fa-solid fa-coins"></i> Workshop fee
-The workshop fee will be €700. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
-<p style="color:red;">Update price</p>
+The workshop fee will be ~€700. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
 
 ## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
-Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site.
+Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site (no dinner on Sunday and Friday!).
 These are part of the workshop fee.
 
 ## <i class="fa-solid fa-whiskey-glass"></i> Workshop outing
 
-On Wednesday afternoon we will go on a guided tour of the [Liedschreiber destillery](https://liedschreiber.com/) and (incl. a tasting)!
+On Wednesday afternoon we will go on a guided tour of the [Liedschreiber destillery](https://liedschreiber.com/) (incl. a tasting)!
 Some information about the tour:
 > During a tour of our distillery you can learn about the production of our noble brandies and fine liqueurs.
 > On the basis of the distillation plant, which is in operation during the tour,
@@ -40,7 +39,7 @@ Some information about the tour:
  
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
-Our hosts at the castle will welcome us to a Bavarian style conference dinner on Wednesday evening.
+Our hosts at the castle will welcome us to a Bavarian style dinner on Wednesday evening.
 
 
 
