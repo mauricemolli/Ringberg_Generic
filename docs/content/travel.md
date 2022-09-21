@@ -33,16 +33,16 @@ We recommend flying to Munich Airport (MUC), as this is the nearest internationa
 After arrival you have to continue by train to reach the castle. Starting at Munich airport, take the regional train (S-Bahn) line S1 or S8 to Munich Central Station.
 From Munich central station take the train to "Tegernsee" station. You can find train travel times by visiting the
 Deutsche Bahn (German rail) [webpage](https://www.bahn.com/en). Alternatively, search for a public transport route from
-"Munich airport" to "Tegernsee station" on Google Maps. The total travel time is around 2 h.
+"Munich airport" to "Tegernsee station" on [Google Maps](https://www.google.de/maps/dir/Munich+International+Airport,+Nordallee+25,+85356+M%C3%BCnchen-Flughafen/Tegernsee/@48.0329904,11.3529496,10z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x479e135923da6d45:0xe3c57a853a56cf4b!2m2!1d11.7764347!2d48.3509684!1m5!1m1!1s0x479d8c219a91bd33:0x41d25a40937a060!2m2!1d11.758016!2d47.7131524!2m3!6e0!7e2!8j1667743200!3e3). The total travel time is around 2 h.
 From Tegernsee station we recommend using a taxi (15 minute ride). 
 
-<p style="color:red;">As a lot of workshop attendants will arrive,
+<p style="color:red;">As a large number of workshop attendants will arrive,
 a taxi reservation via email is mandatory (Taxi Jasinski, <a href="mailto:taxi-jasinksi@live.de">taxi-jasinksi@live.de</a>).</p>
 
 Also note that on the Deutsche Bahn website you can buy a ticket in advance,
 but we don't recommend the cheaper "saver" tickets,
 as these apply to a specific booked train --
-You cannot use them on a different train if you have flight delays.
+you cannot use them on a different train if you have flight delays.
 
 ### <i class="fa-solid fa-train"></i> By train
 
