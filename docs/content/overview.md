@@ -4,7 +4,6 @@ type: section
 active: true
 title: Overview
 ---
-The workshop's theme is the Gaia selection function and how to use it. This event will be a three-day workshop and unconference, where we will discuss and learn from each other about the finer details of the Gaia selection function and how to build and use it in various contexts. Participants will be working with the new GaiaUnlimited selection function tools, for which we will assist as needed, and we will improve them based on the feedback we'll receive. We hope this workshop could lead to some new collaborations or initial joint studies. We want to dedicate a significant amount of time to unconference sessions and informal discussions.
 
-[<img width="100px" src="https://gaia-unlimited.org/wp-content/uploads/2021/06/EU-Logo_400x267.png" style="float:left;margin-right:1rem;">](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
-_This workshop is partially funded by the European Union’s Horizon 2020 research and innovation program under grant agreement No 101004110._
+After decades of waiting, JWST observations of exoplanets are finally upon us! To celebrate this exciting time, we will convene at Ringberg Castle for five days.  The goal of the workshop is to bring together world experts on transiting planets, directly imaged planets, and brown dwarfs to discuss early JWST results and instrument performance, and brainstorm innovations in data analysis and atmospheric modeling needed to make the most of this once-in-a-generation telescope.  We strongly encourage participants to share early results — even if they are very preliminary — to accelerate our understanding of exoplanet atmospheres and instrument performance in advance of the Cycle 2 deadline. To encourage open communication, we request that participants agree that any JWST result shared at the workshop is a private communication, and may only be used with permission. `
+
