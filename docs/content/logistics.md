@@ -61,7 +61,7 @@ We will make arrangements for shuttling people to and from the castle during the
 
 ## <i class="fa-solid fa-question"></i> Further information
 
-_Please don't hesitate to contact us via email <a href="mailto:jordan@mpia.de"></a> if you have any questions!_.
+_Please don't hesitate to contact us via <a href="mailto:jordan@mpia.de">email</a> if you have any questions!_.
 
 <!--
 ## <i class="fa-solid fa-comments"></i> Communications
