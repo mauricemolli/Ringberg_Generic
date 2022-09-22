@@ -191,6 +191,10 @@ program:
       time: 12:30 - 14:00
       title: Lunch 
       highlight: true
+    - day: Friday
+      time: 14:00-
+      title: End of conference and individual departure 
+      highlight: true
 
 ---
 

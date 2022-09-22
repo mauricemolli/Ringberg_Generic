@@ -34,7 +34,8 @@ Some information about the tour:
 > During the subsequent tasting in the cozy tasting room with a view of the magnificent alpine scenery,
 > enjoy the delicacies from the wide range of products.
 > Cheese from regional production and fresh bread are served in a convivial atmosphere. 
-> The guided tour, including tasting, lasts about 1 1/2 to 2 hours and costs €20 per person.
+
+The guided tour, including tasting, lasts about 1 1/2 to 2 hours and costs €20 per person + €10 for the bus ride.
  
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
