@@ -3,15 +3,15 @@
 type: index
 
 event:
-    - title: Celebrating JWST's first six months of exoplanet data
+    - title: Cloud Zwei Con
     # - subtitle:
-    - date: 7-11 November 2022 
+    - date: 23-27 January 2023 
     - venue: Ringberg Castle, Bavaria, Germany
 
 organizers:
     - name: Laura Kreidberg, Tom Mikal-Evans, Paul Mollière
     - url: https://www.mpia.de
-    - logo: static/img/JWST_workshop_logo_final.png
+    - logo: static/img/c2c_logo.png
     - contact_url: mailto:jordan@mpia.de
 
 imprint:
