@@ -7,16 +7,18 @@ title: Organizers
 
 <div markdown="1" class="col-md-12" style="text-align:center;">
 
-<img src="static/img/ringberg_jwst_logo.png" alt="venue" width=360px">
+<!-- <img src="static/img/ringberg_jwst_logo.png" alt="venue" width=360px"> -->
 
 SOC & LOC
 
-* Laura Kreidberg (MPIA)
-* Tom Mikal-Evans (MPIA)
-* Paul Mollière (MPIA)
-* Carola Jordan (MPIA)
-
-
+* Jo Barstow (Open University)
+* Laura Kreidberg (Max Planck Institute for Astronomy)
+* Paul Mollière (Max Planck Institute for Astronomy)
+* Caroline Morley (University of Texas, Austin)
+* Diana Powell (CfA Harvard)
+* Johanna Vos (American Museum of Natural History)
+* Xinting Yu (University of California, Santa Cruz)
+* Carola Jordan (Max Planck Institute for Astronomy)
 
 <!--
 <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>
