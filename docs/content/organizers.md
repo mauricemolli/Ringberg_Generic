@@ -9,7 +9,7 @@ title: Organizers
 
 <!-- <img src="static/img/ringberg_jwst_logo.png" alt="venue" width=360px"> -->
 
-SOC & LOC
+SOC
 
 * Jo Barstow (Open University)
 * Laura Kreidberg (Max Planck Institute for Astronomy)
@@ -18,7 +18,6 @@ SOC & LOC
 * Diana Powell (CfA Harvard)
 * Johanna Vos (American Museum of Natural History)
 * Xinting Yu (University of California, Santa Cruz)
-* Carola Jordan (Max Planck Institute for Astronomy)
 
 <!--
 <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>

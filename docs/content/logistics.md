@@ -9,8 +9,20 @@ title: Logistics
 The workshop will take place at Ringberg Castle, Bavaria, Germany. 
 
 ## <i class="fa-solid fa-clock"></i> When
-The workshop will start at 9 am on 7 November 2022 and finishes at 2 pm on 11 November 2022.
-<p style="color:red;">The castle is booked from 6 November, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
+
+The workshop will start at 9 am on 23 January 2023 and finishes at 2 pm on 27 January 2023.
+<p style="color:red;">The castle is booked from 22 January, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
+
+## <img height="25" src="static/img/hexagon.png"> JWST
+We are aware of the JWST Cycle 2 deadline, which is on
+the Friday on which the meeting ends. So it may be of
+interest to some of you that there are quite a number
+of rooms in Ringberg where one can work quietly.
+<p style="color:red;">In addition, you can stay another night at Ringberg
+(Friday 27 to Saturday 28) to finish your proposals
+in the castle before traveling home. If you want to make
+use of this option please indicate this when filling in the logistics
+form!</p>
 
 ## <i class="fa-solid fa-virus-covid-slash"></i> COVID vigilance
 Participants are required to provide proof of vaccination or recovery from COVID-19.  In addition, we will provide a rapid antigen COVID self-test for each participant for each day of the workshop.  Daily testing is mandatory for all participants. If you test positive or feel ill during the workshop, please inform the organisers immediately and we will arrange for a private room for you to self-isolate.
@@ -23,20 +35,6 @@ The workshop fee will be approximately €720. Payments via Master- and Visacard
 Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site (no dinner on Sunday and Friday!).
 These are part of the workshop fee.
 
-## <i class="fa-solid fa-whiskey-glass"></i> Workshop outing
-
-On Wednesday afternoon we will go on a guided tour of the [Liedschreiber destillery](https://liedschreiber.com/) (incl. a tasting)!
-Some information about the tour:
-> During a tour of our distillery you can learn about the production of our noble brandies and fine liqueurs.
-> On the basis of the distillation plant, which is in operation during the tour,
-> visitors learn about the sequence of high-quality processes from the exquisite fruit to the noble distillate
-> and facts worth knowing about contemporary distillation technology.
-> During the subsequent tasting in the cozy tasting room with a view of the magnificent alpine scenery,
-> enjoy the delicacies from the wide range of products.
-> Cheese from regional production and fresh bread are served in a convivial atmosphere. 
-
-The guided tour, including tasting, lasts about 1 1/2 to 2 hours and costs €20 per person + €10 for the bus ride.
- 
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
 
 Our hosts at the castle will welcome us to a Bavarian style dinner on Wednesday evening.

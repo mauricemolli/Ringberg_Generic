@@ -14,6 +14,7 @@ Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-p
 
 <center>
 ## <i class="fa-solid fa-people-group"></i> Participants
+
 Yui Kawashima<br>
 Elsie Lee<br>
 Kazumasa Ohno<br>
@@ -30,7 +31,6 @@ Brittany Miles<br>
 Channon Visscher<br>
 Jackie Faherty<br>
 Rachael Amaro<br>
-Hannah Wakeford<br>
 Thomas Beatty<br>
 Munazza Alam<br>
 Jason Dittmann<br>
@@ -46,10 +46,16 @@ Alexandria Johnson<br>
 Ben Burningham<br>
 Yapeng Zhang<br>
 Niall Whiteford<br>
-Evert Nasedkin<br>
 Jerry Xuan<br>
 Anna Lueber<br>
 Melanie Rowland<br>
 Caoimhe Rooney<br>
 Whitney Powers<br>
+Jo Barstow <br>
+Laura Kreidberg<br>
+Paul Mollière<br>
+Caroline Morley<br>
+Diana Powell<br>
+Johanna Vos<br>
+Xinting Yu
 </center>

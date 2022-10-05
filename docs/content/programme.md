@@ -11,10 +11,10 @@ title: Program
 | Keynote 2: Clouds in the lab and microphysical models | Contributed talks | Contributed talks       | Contributed talks      | Contributed talks |
 | Keynote 3: Clouds in transiting planet and BD retrievals | Contributed talks | Contributed talks       | Contributed talks      | Contributed talks |
 | Keynote 4: Clouds in 3-d models of planets and BDs | Discussion round  | Contributed talks       | Contributed talks      | End discussion          |
-| Contributed talks               | Groups            | Outing                  | Groups/Codes           | JWST                    |
-| Contributed talks               | Groups            | Outing                  | Groups/Codes           | JWST                    |
-| Discussion round                | Groups            | Outing                  | Groups/Codes           | JWST                    |
-| Early end (<i class="fa-solid fa-beer-mug-empty"></i> )              | Discussion round  | Outing                  | Groups/Codes           | JWST                    |
+| Contributed talks               | Groups            | Free / JWST                  | Groups/Codes           | JWST                    |
+| Contributed talks               | Groups            | Free / JWST                  | Groups/Codes           | JWST                    |
+| Discussion round                | Groups            | Free / JWST                  | Groups/Codes           | JWST                    |
+| Early end (<i class="fa-solid fa-beer-mug-empty"></i> )              | Discussion round  | Free / JWST                  | Groups/Codes           | JWST                    |
 
 
 <br>

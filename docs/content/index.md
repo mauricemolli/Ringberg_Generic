@@ -12,7 +12,7 @@ organizers:
     - name: Laura Kreidberg, Tom Mikal-Evans, Paul Mollière
     - url: https://www.mpia.de
     - logo: static/img/c2c_logo.png
-    - contact_url: mailto:jordan@mpia.de
+    - contact_url: mailto:molliere@mpia.de
 
 imprint:
     - url: http://www.mpia.de/imprint
