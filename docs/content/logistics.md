@@ -11,7 +11,7 @@ The workshop will take place at Ringberg Castle, Bavaria, Germany.
 ## <i class="fa-solid fa-clock"></i> When
 
 The workshop will start at 9 am on 23 January 2023 and finishes at 2 pm on 27 January 2023.
-<p style="color:red;">The castle is booked from 22 January, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
+<p style="color:red;">The castle is booked from 22  January, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
 
 ## <img height="25" src="static/img/hexagon.png"> JWST
 We are aware of the JWST Cycle 2 deadline, which is on
@@ -28,7 +28,10 @@ form!</p>
 Participants are required to provide proof of vaccination or recovery from COVID-19.  In addition, we will provide a rapid antigen COVID self-test for each participant for each day of the workshop.  Daily testing is mandatory for all participants. If you test positive or feel ill during the workshop, please inform the organisers immediately and we will arrange for a private room for you to self-isolate.
 
 ## <i class="fa-solid fa-coins"></i> Workshop fee
-The workshop fee will be approximately €720. Payments via Master- and Visacard are accepted, but EC-Card and cash are preferred.
+The workshop fee will be approximately €720.
+This will increase by ~1/5 if you stay one extra (JWST) night on Friday. 
+Payments via Master- and Visacard are accepted,
+but EC-Card and cash are preferred.
 
 ## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
@@ -60,7 +63,7 @@ We will make arrangements for shuttling people to and from the castle during the
 
 ## <i class="fa-solid fa-question"></i> Further information
 
-_Please don't hesitate to contact us via <a href="mailto:jordan@mpia.de">email</a> if you have any questions!_.
+_Please don't hesitate to contact us via <a href="mailto:molliere@mpia.de">email</a> if you have any questions!_.
 
 <!--
 ## <i class="fa-solid fa-comments"></i> Communications
