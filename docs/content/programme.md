@@ -8,7 +8,7 @@ program:
     - day: Sunday
       time: 16:00 - 22:00
       title: Arrival at the castle
-      description: note that dinner is not provided on Sunday night
+      description: catered sandwiches will be provided for participants arriving before 8 pm (we will have vegetarian options but not vegan) 
     - day: Monday 
       time: 08:00 - 09:00
       title: Breakfast 
@@ -37,9 +37,13 @@ program:
       highlight: true
     - day: Monday
       time: 14:00 - 15:30
-      title: First results from Early Release Science programs
+      title: First results from the Transiting Exoplanets Community Early Release Science program
       description: |2-
-        Eva-Maria Ahrer, Lili Alderson, Zafar Rustamkalov, Olivia Venot
+        Zafar Rustamkalov - WASP-39b through the eyes of NIRSPec PRISM
+        Eva-Maria Ahrer - WASP-39b through the eyes of NIRSPec G395H
+        Lili Alderson - WASP-39b through the eyes of NIRCam
+        Bjoern Benneke - WASP-39b through the eyes of NIRISS SOSS
+        Olivia Venot - Great Expectations for the WASP-43b MIRI Phase Curve
     - day: Monday
       time: 15:30 - 16:00
       title: Coffee and poster viewing 
@@ -48,7 +52,10 @@ program:
       time: 16:00 - 17:30
       title: A new era of atmospheric retrieval for gas giants
       description: |2-
-        Luis Welbanks, Ryan MacDonald, Jasmina Blecic, Patricio Cubillos 
+        Luis Welbanks - Model Synthesis for the Transiting Exoplanet ERS Program
+        Patricio Cubillos - An exploration of the WASP-39b JWST information content: data constraints vs modeling biases
+        Jasmina Blecic - Multidimensional Retrieval in the JWST Era 
+        Ryan MacDonald - Multidimensional Retrievals: A New Window into Giant Exoplanet Atmospheres  
     - day: Monday
       time: 18:30 - 20:00
       title: Dinner 
@@ -65,7 +72,12 @@ program:
     - day: Tuesday 
       time: 09:10 - 10:30
       title: Hot Jupiters galore 
-      description: Thomas Beatty, Taylor Bell, Nestor Espinoza, Tom Mikal-Evans
+      description: |2-
+        Drake Deming – First look at the transmission spectrum of HD 189733b with NIRCam
+        Thomas Beatty - There's a Reason it's a Classic: Dayside Emission from HD 189733b
+        Jake Taylor - ERO observations of the hot Jupiter WASP-96b
+        Taylor Bell - MIRI Transmission and Emission Spectroscopy of the Warm Jupiter WASP-80b
+        Nestor Espinoza - Two for the price of one: exploring the morning and evening terminators of Hot Jupiters with JWST
     - day: Tuesday 
       time: 10:30 - 11:00
       title: Coffee and poster viewing 
@@ -73,7 +85,11 @@ program:
     - day: Tuesday 
       time: 11:00 - 12:30
       title: How I learned to stop worrying and love clouds 
-      description: Diana Powell, Thaddeus Komacek, Maria Steinrueck 
+      description: |2-
+        Diana Powell - 2D microphysical models: a cloud odyssey
+        Thaddeus Komacek - Some shine and some don’t: inhomogeneous cloud decks in the atmospheres of ultra-hot Jupiters
+        Maria Steinrueck - TBC
+        Mark Hammond - Retrieving eclipse maps and wind speeds from JWST observations of WASP-18b and other planets
     - day: Tuesday 
       time: 12:30 - 14:00
       title: Lunch 
@@ -81,7 +97,12 @@ program:
     - day: Tuesday 
       time: 14:00 - 15:30
       title: Did you know planets are 3D? 
-      description: Elspeth Lee, Maria Zamyatina, Ian Dobbs-Dixon, Vivien Parmentier, Tiffany Kataria 
+      description: |2-
+        Tom Mikal-Evans - A NIRSpec phase curve for WASP-121b
+        Elspeth Lee - Yet another thing to compare to, modelling ultra hot Jupiters for high resolution spectroscopy
+        Maria Zamyatina - Observability of signatures of transport-induced chemistry in clear atmospheres of hot gas giant exoplanets
+        Ian Dobbs-Dixon - TBC
+        Tiffany Kataria - TBC
     - day: Tuesday
       time: 15:30 - 16:00
       title: Coffee and poster viewing 
@@ -89,7 +110,7 @@ program:
     - day: Tuesday 
       time: 16:00 - 17:30
       title: Panel discussion of instrument performance
-      description: Jeroen Bouwman, Nestor Espinoza, Everett Schlawin, Nicolas Crouzet, Yannis Argyriou 
+      description: Jeroen Bouwman, Nestor Espinoza, Everett Schlawin, Nicolas Crouzet, Polychronis Patapis 
     - day: Tuesday
       time: 18:30 - 20:00
       title: Dinner 
@@ -106,7 +127,11 @@ program:
     - day: Wednesday
       time: 09:10 - 10:30
       title: Directly imaged planets galore I
-      description: Paul Molliere, Aaryn Carter, Pierre-Olivier Lagage, Beth Biller
+      description: |2-
+        Paul Molliere - Retrieval analyses of the ultra-cool dwarf WISE J1828 in the MIRI GTO team
+        Aaryn Carter, - The First Direct Images of an Exoplanet with JWST
+        Pierre-Olivier Lagage - TBC
+        Beth Biller - Revealing the turbulent atmospheres of young, giant planets through variability monitoring and spectroscopy
     - day: Wednesday
       time: 10:30 - 11:00
       title: Coffee and poster viewing 
@@ -114,7 +139,11 @@ program:
     - day: Wednesday
       time: 11:00 - 12:30
       title: Directly imaged planets galore II
-      description: Niall Whiteford, Evert Nasedkin, Sasha Hinkley, Elisabeth Matthews
+      description: |2-
+        Niall Whiteford - Cloudy retrievals of VHS 1256 b
+        Sasha Hinkley - Characterizing Ice-Line Planets with JWST NIRISS
+        Elisabeth Matthews - Unlocking the population of cold, old planets around nearby stars using imaging and radial velocities
+        Evert Nasedkin - TBC
     - day: Wednesday
       time: 12:30 - 14:00
       title: Lunch 
@@ -125,7 +154,7 @@ program:
       description: Schnapps distillery tour and tasting
       highlight: true
     - day: Wednesday
-      time: 16:30 - 20:00
+      time: 18:30 - 20:00
       title: Bavarian evening 
       highlight: true
 # ----------------------------------------------------------------
@@ -139,24 +168,29 @@ program:
       highlight: true
     - day: Thursday
       time: 09:10 - 10:30
-      title: Theory of hot rocky planet atmospheres 
-      description: Yamila Miguel, Nick Cowan
+      title: Small planet atmospheres and interiors 
+      description: |2-
+         Yamila Miguel - Lava Worlds' Atmospheres and Observability
+         Nick Cowan - Lava Planet Dynamics and Observables
+         Anjali Piette - Atmospheric retrieval of lava worlds
+         Lorena Acuna - Interior-atmosphere modelling of JWST rocky planets
     - day: Thursday 
       time: 10:30 - 11:00
       title: Coffee and poster viewing 
       highlight: true
     - day: Thursday
       time: 11:00 - 12:30
-      title: Atmosphere - interior connection 
-      description: Lorena Acuna, Anjali Piette 
+      title: First observations of the TRAPPIST-1 system (!!)
+      description: |2- 
+        Bjoern Benneke,  - JWST reconnaissance transmission spectroscopy of TRAPPIST-1 planets: first results
+        Sebastian Zieba – A first look at thermal emission from TRAPPIST-1c
     - day: Thursday 
       time: 12:30 - 14:00
       title: Lunch 
       highlight: true
     - day: Thursday
       time: 14:00 - 15:30
-      title: First observations of rocky planets (!!)
-      description: Bjoern Benneke, Jake Taylor, Taylor Bell, Sebastian Zieba
+      title: Unconference sessions and proposal brainstorming I
     - day: Thursday 
       time: 15:30 - 16:00
       title: Coffee and poster viewing 
