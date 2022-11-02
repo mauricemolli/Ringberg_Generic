@@ -40,7 +40,6 @@ program:
       title: First results from Early Release Science programs
       description: |2-
         Eva-Maria Ahrer, Lili Alderson, Zafar Rustamkalov, Olivia Venot
-        test
     - day: Monday
       time: 15:30 - 16:00
       title: Coffee and poster viewing 
