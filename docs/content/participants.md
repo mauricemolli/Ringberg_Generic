@@ -34,8 +34,8 @@ Participation is by invitation only.
 
 
 <table>
-<td> Lili Alderson</td> 
 <td> Aarynn Carter</td> 
+<td> Amy Louca </td> 
 <td> Anjali Piette</td> 
 <td> Björn Benneke</td> 
 <td> Cyril Gapp</td> 
@@ -60,8 +60,8 @@ Participation is by invitation only.
   <tr>
 <td> Jeroen Bouwman</td> 
 <td> Jonathan Fortney</td> 
-<td> Lagage Pierre-Olivier</td> 
 <td> Laura Kreidberg</td> 
+<td> Lili Alderson</td> 
 <td> Lisa Dang</td> 
 <td> Lorena Acuña</td> 
   </tr>
@@ -69,37 +69,37 @@ Participation is by invitation only.
 <td> Luis Welbanks</td> 
 <td> Maria Steinrueck</td> 
 <td> Maria Zamyatina</td> 
+<td> Mark Hammond </td> 
 <td> Nathan Mayne</td> 
 <td> Nestor Espinoza</td> 
-<td> Niall Whiteford</td> 
   </tr>
   <tr>
+<td> Niall Whiteford</td> 
 <td> Nicolas Cowan</td> 
 <td> Nicolas Crouzet</td> 
 <td> Nikole Lewis</td> 
 <td> Olivia Venot</td> 
 <td> Patricio E. Cubillos</td> 
-<td> Paul Mollière</td> 
   </tr>
   <tr>
+<td> Paul Mollière</td> 
+<td> Pierre-Olivier Lagage</td> 
+<td> Polychronis Patapis</td> 
 <td> Sebastian Zieba</td> 
 <td> Taylor James Bell</td> 
 <td> Thaddeus Komacek</td> 
-<td> Thomas Beatty</td> 
-<td> Tom Evans</td> 
-<td> Vivien Parmentier</td> 
   </tr>
   <tr>
+<td> Thomas Beatty</td> 
+<td> Thomas Mikal-Evans</td> 
 <td> Yamila Miguel</td> 
-<td> Yannis Argyriou</td> 
 <td> Zafar Rustamkulov</td> 
 <td> Tiffany Kataria</td> 
 <td> Beth Biller</td> 
-<td> Ryan MacDonald</td> 
   </tr>
   <tr>
+<td> Ryan MacDonald</td> 
 <td> Sasha Hinkley</td> 
-<td> Amy Louca </td> 
 </table>
 
 </body>
