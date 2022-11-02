@@ -37,9 +37,13 @@ program:
       highlight: true
     - day: Monday
       time: 14:00 - 15:30
-      title: First results from Early Release Science programs
+      title: First results from the Transiting Exoplanet Community Early Release Science Program
       description: |2-
-        Eva-Maria Ahrer, Lili Alderson, Zafar Rustamkalov, Olivia Venot
+        Lili Alderson - NIRSpec G395H
+        Zafar Rustamkalov - NIRSpec PRISM
+        Eva-Maria Ahrer - NIRCam
+        Bjoern Benneke - NIRISS
+        Olivia Venot - MIRI
     - day: Monday
       time: 15:30 - 16:00
       title: Coffee and poster viewing 
