@@ -179,20 +179,21 @@ program:
       highlight: true
     - day: Thursday
       time: 11:00 - 12:30
-      title: Small planet atmospheres and interiors 
+      title: Lava worlds 
       description: |2-
          Yamila Miguel - Lava Worlds' Atmospheres and Observability
          Nick Cowan - Lava Planet Dynamics and Observables
          Anjali Piette - Atmospheric retrieval of lava worlds
-         Lorena Acuna - Interior-atmosphere modelling of JWST rocky planets
+         Amy Louca - TBD
     - day: Thursday 
       time: 12:30 - 14:00
       title: Lunch 
       highlight: true
     - day: Thursday
       time: 11:00 - 12:30
-      title: First observations of the TRAPPIST-1 system (!!)
+      title: Rocky planets 
       description: |2- 
+         Lorena Acuna - Interior-atmosphere modelling of JWST rocky planets
         Bjoern Benneke,  - JWST reconnaissance transmission spectroscopy of TRAPPIST-1 planets: first results
         Sebastian Zieba – A first look at thermal emission from TRAPPIST-1c
         all - group discussion
