@@ -38,6 +38,11 @@ From Tegernsee station you will need to take a taxi to get to the castle (15 min
 
 <p style="color:red;">As a large number of workshop attendants will arrive,
 a taxi reservation in advance via email is mandatory (Taxi Jasinski, <a href="mailto:taxi-jasinski@live.de">taxi-jasinski@live.de</a>).</p>
+
+<p style="color:red;">Note that you may have to switch to a bus during the train ride from Munich to Tegernsee station, due to construction work going on on the train tracks.
+In this case the final stop of the train is  before Tegernsee station, and you will have to transfer to a bus waiting in front of the station.
+The bus will be shown as "SEV" (Schienenersatzverkehr: "train replacement traffic") on the Deutsche Bahn website.</p>
+
 Also note that on the Deutsche Bahn website you can buy a ticket in advance,
 but we don't recommend the cheaper "saver" tickets,
 as these apply to a specific booked train --
