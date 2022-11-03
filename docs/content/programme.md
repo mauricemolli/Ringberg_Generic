@@ -20,11 +20,10 @@ program:
     - day: Monday 
       time: 09:10 - 10:30
       title: Flash talks
-      description: Individual one slide introductions (2 minutes per person) 
-#     [slide deck](https://docs.google.com/presentation/d/1qP4x2mJiqwI1hqZlG6ca-T3rkY5-wkERbvDUPYZgJ24/edit?usp=sharing)
+      description: Individual [one slide introductions](https://docs.google.com/presentation/d/18J0rtAq73ZZNzH4ORtuhOesN-LiQlNdaet90mJl2QxA/edit?usp=sharing) (90 seconds per person)
     - day: Monday
       time: 10:30 - 11:00
-      title: Coffee and poster viewing
+      title: Coffee 
       highlight: true
     - day: Monday
       time: 11:00 - 12:30
@@ -46,7 +45,7 @@ program:
         Olivia Venot - Great Expectations for the WASP-43b MIRI Phase Curve
     - day: Monday
       time: 15:30 - 16:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Monday
       time: 16:00 - 17:30
@@ -80,7 +79,7 @@ program:
         Nestor Espinoza - Two for the price of one: exploring the morning and evening terminators of Hot Jupiters with JWST
     - day: Tuesday 
       time: 10:30 - 11:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Tuesday 
       time: 11:00 - 12:30
@@ -105,12 +104,16 @@ program:
         Tiffany Kataria - TBC
     - day: Tuesday
       time: 15:30 - 16:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Tuesday 
-      time: 16:00 - 17:30
-      title: Panel discussion of instrument performance
-      description: Jeroen Bouwman, Nestor Espinoza, Everett Schlawin, Nicolas Crouzet, Polychronis Patapis 
+      time: 16:00 - 17:00
+      title: Poster viewing 
+      highlight: true
+    - day: Tuesday 
+      time: 17:30 - 18:30
+      title: Castle tour 
+      description: Don't miss this; the castle has a fascinatingly weird history! 
     - day: Tuesday
       time: 18:30 - 20:00
       title: Dinner 
@@ -134,7 +137,7 @@ program:
         Beth Biller - Revealing the turbulent atmospheres of young, giant planets through variability monitoring and spectroscopy
     - day: Wednesday
       time: 10:30 - 11:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Wednesday
       time: 11:00 - 12:30
@@ -166,8 +169,16 @@ program:
       time: 09:00 - 09:10
       title: Announcements
       highlight: true
-    - day: Thursday
+    - day: Thursday 
       time: 09:10 - 10:30
+      title: Panel discussion of instrument performance
+      description: Jeroen Bouwman, Nestor Espinoza, Everett Schlawin, Nicolas Crouzet, Polychronis Patapis 
+    - day: Thursday 
+      time: 10:30 - 11:00
+      title: Coffee 
+      highlight: true
+    - day: Thursday
+      time: 11:00 - 12:30
       title: Small planet atmospheres and interiors 
       description: |2-
          Yamila Miguel - Lava Worlds' Atmospheres and Observability
@@ -175,8 +186,8 @@ program:
          Anjali Piette - Atmospheric retrieval of lava worlds
          Lorena Acuna - Interior-atmosphere modelling of JWST rocky planets
     - day: Thursday 
-      time: 10:30 - 11:00
-      title: Coffee and poster viewing 
+      time: 12:30 - 14:00
+      title: Lunch 
       highlight: true
     - day: Thursday
       time: 11:00 - 12:30
@@ -184,16 +195,10 @@ program:
       description: |2- 
         Bjoern Benneke,  - JWST reconnaissance transmission spectroscopy of TRAPPIST-1 planets: first results
         Sebastian Zieba – A first look at thermal emission from TRAPPIST-1c
-    - day: Thursday 
-      time: 12:30 - 14:00
-      title: Lunch 
-      highlight: true
-    - day: Thursday
-      time: 14:00 - 15:30
-      title: Unconference sessions and proposal brainstorming I
+        all - group discussion
     - day: Thursday 
       time: 15:30 - 16:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Thursday 
       time: 16:00 - 17:30
@@ -216,7 +221,7 @@ program:
       title: Unconference sessions and proposal brainstorming II
     - day: Friday
       time: 10:30 - 11:00
-      title: Coffee and poster viewing 
+      title: Coffee 
       highlight: true
     - day: Friday 
       time: 11:00 - 12:30

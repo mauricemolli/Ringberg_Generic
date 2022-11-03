@@ -25,7 +25,7 @@ These are part of the workshop fee.
 
 ## <i class="fa-solid fa-whiskey-glass"></i> Workshop outing
 
-On Wednesday afternoon we will go on a guided tour of the [Liedschreiber destillery](https://liedschreiber.com/) (incl. a tasting)!
+On Wednesday afternoon we will go on a guided tour of the [Liedschreiber distillery](https://liedschreiber.com/) (incl. a tasting)!
 Some information about the tour:
 > During a tour of our distillery you can learn about the production of our noble brandies and fine liqueurs.
 > On the basis of the distillation plant, which is in operation during the tour,
