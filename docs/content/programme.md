@@ -39,8 +39,8 @@ program:
       title: First results from the Transiting Exoplanets Community Early Release Science program
       description: |2-
         Zafar Rustamkalov - WASP-39b through the eyes of NIRSPec PRISM
-        Eva-Maria Ahrer - WASP-39b through the eyes of NIRSPec G395H
-        Lili Alderson - WASP-39b through the eyes of NIRCam
+        Lili Alderson - WASP-39b through the eyes of NIRSPec G395H
+        Eva-Maria Ahrer - WASP-39b through the eyes of NIRCam
         Bjoern Benneke - WASP-39b through the eyes of NIRISS SOSS
         Olivia Venot - Great Expectations for the WASP-43b MIRI Phase Curve
     - day: Monday
@@ -53,8 +53,8 @@ program:
       description: |2-
         Luis Welbanks - Model Synthesis for the Transiting Exoplanet ERS Program
         Patricio Cubillos - An exploration of the WASP-39b JWST information content: data constraints vs modeling biases
-        Jasmina Blecic - Multidimensional Retrieval in the JWST Era 
-        Ryan MacDonald - Multidimensional Retrievals: A New Window into Giant Exoplanet Atmospheres  
+        Jasmina Blecic - Multidimensional Emission Retrievals in the JWST Era
+        Ryan MacDonald - Multidimensional Transmission Retrievals: A New Window into Giant Exoplanet Atmospheres  
     - day: Monday
       time: 18:30 - 20:00
       title: Dinner 
