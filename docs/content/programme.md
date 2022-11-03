@@ -131,7 +131,7 @@ program:
       time: 09:10 - 10:30
       title: Directly imaged planets galore I
       description: |2-
-        Paul Molliere - Retrieval analyses of the ultra-cool dwarf WISE J1828 in the MIRI GTO team
+        Paul Mollière - Model analyses of the ultra-cool dwarf WISE J1828 in the MIRI GTO team
         Aaryn Carter, - The First Direct Images of an Exoplanet with JWST
         Pierre-Olivier Lagage - TBC
         Beth Biller - Revealing the turbulent atmospheres of young, giant planets through variability monitoring and spectroscopy
