@@ -87,7 +87,7 @@ program:
       description: |2-
         Diana Powell - 2D microphysical models: a cloud odyssey
         Thaddeus Komacek - Some shine and some don’t: inhomogeneous cloud decks in the atmospheres of ultra-hot Jupiters
-        Maria Steinrueck - TBC
+        Maria Steinrueck - A Clockwork Haze? Haze radiative feedback in 3D simulations of hot Jupiters and mini-Neptunes
         Mark Hammond - Retrieving eclipse maps and wind speeds from JWST observations of WASP-18b and other planets
     - day: Tuesday 
       time: 12:30 - 14:00
@@ -133,7 +133,7 @@ program:
       description: |2-
         Paul Mollière - Model analyses of the ultra-cool dwarf WISE J1828 in the MIRI GTO team
         Aaryn Carter, - The First Direct Images of an Exoplanet with JWST
-        Pierre-Olivier Lagage - TBC
+        Pierre-Olivier Lagage - Yes, all the sources detected by direct imaging from the ground are observable with MIRI
         Beth Biller - Revealing the turbulent atmospheres of young, giant planets through variability monitoring and spectroscopy
     - day: Wednesday
       time: 10:30 - 11:00
@@ -146,7 +146,7 @@ program:
         Niall Whiteford - Cloudy retrievals of VHS 1256 b
         Sasha Hinkley - Characterizing Ice-Line Planets with JWST NIRISS
         Elisabeth Matthews - Unlocking the population of cold, old planets around nearby stars using imaging and radial velocities
-        Evert Nasedkin - TBC
+        Evert Nasedkin - The Mid-Infrared Opportunity: Direct Imaging Spectroscopy with MIRI/MRS
     - day: Wednesday
       time: 12:30 - 14:00
       title: Lunch 
