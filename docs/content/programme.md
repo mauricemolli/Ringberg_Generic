@@ -101,7 +101,7 @@ program:
         Elspeth Lee - Yet another thing to compare to, modelling ultra hot Jupiters for high resolution spectroscopy
         Maria Zamyatina - Observability of signatures of transport-induced chemistry in clear atmospheres of hot gas giant exoplanets
         Ian Dobbs-Dixon - TBC
-        Tiffany Kataria - TBC
+        Tiffany Kataria -  Comparing Spitzer and JWST phase-resolved observations: How did we do?
     - day: Tuesday
       time: 15:30 - 16:00
       title: Coffee 
