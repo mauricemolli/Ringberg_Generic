@@ -15,7 +15,7 @@ and ultimately characterizing potentially habitable (or inhabited) exoplanets, w
 Cloud Zwei Con aims to bring together world-leading experts on the topic of clouds in exoplanet and brown dwarf
 atmospheres, who study their targets with the world's most sensitive telescopes, cutting-edge models, and in the labs.
 The philosophy of the workshop is to alternate presentations (keynotes and contributed) with
-afternoon interdisciplinary working groups.
+ interdisciplinary working groups.
 The goal of the working groups will be to bring together
 observational, modeling, and laboratory researchers
 to determine how to best explain
