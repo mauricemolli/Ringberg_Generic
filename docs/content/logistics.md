@@ -38,7 +38,7 @@ but EC-Card and cash are preferred.
 
 ## <i class="fa-solid fa-utensils"></i> Lunches & Coffee Breaks
 
-Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site (no dinner on Sunday and Friday!).
+Ringberg castle provides breakfast, lunch, dinner and coffee breaks on site (no dinner on Friday!).
 These are part of the workshop fee. For those staying an extra JWST night: we will order pizza!
 
 ## <i class="fa-solid fa-beer-mug-empty"></i> Workshop dinner
