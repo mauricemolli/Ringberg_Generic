@@ -53,3 +53,14 @@ once there continue to the castle with a taxi
 ### <i class="fa-solid fa-road"></i> Driving directions
 If you decide to rent a car and drive, you can follow the directions on the [Ringberg website](https://www.schloss-ringberg.de/convention-site/contact).
 Also check out their [cool video](https://youtu.be/uELPUedThlI)...
+
+### <i class="fa-solid fa-snowflake"></i> Driving up to the castle in winter
+
+Those who will arrive by rental car or with their own car: please note that winter equipment may be required
+when driving up to the castle in case of snow! Depending on the conditions, you may need snow chains,
+or a four-wheel drive. As an alternative option, guests can park
+at the <a href="https://goo.gl/maps/yR5jeWb2WEHnQPNXA">lower winter parking lot</a>
+(enter Schlossstraße, turn right after about 50 m) and take
+Taxi Jasinsky (08022/95099) or Happy Taxi (0175/9001001) up.
+For a demonstration of where to park, and the snow conditions on the drive up, 
+the Ringberg hosts have created a <a href="https://youtu.be/Jj0xSUXGKhQ">YouTube video</a>.

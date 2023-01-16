@@ -19,7 +19,6 @@ Munazza Alam<br>
 Rachael Amaro<br>
 Joanna Barstow<br>
 Thomas Beatty<br>
-Beth Biller<br>
 Samantha Brown-Sevilla<br>
 Ben  Burningham<br>
 Emily Calamari<br>
@@ -45,7 +44,6 @@ Michiel Min<br>
 Paul Mollière<br>
 Sarah Moran<br>
 Caroline Morley<br>
-Sagnick Mukherjee<br>
 Kazumasa Ohno<br>
 Vivien Parmentier<br>
 Anjali Piette<br>

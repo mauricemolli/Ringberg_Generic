@@ -12,6 +12,9 @@ The workshop will take place at Ringberg Castle, Bavaria, Germany.
 
 The workshop will start at 9 am on 23 January 2023 and finishes at 2 pm on 27 January 2023.
 <p style="color:red;">The castle is booked from 22  January, 4 pm, to allow participants to arrive the day before the workshop starts.</p>
+However, those arriving earlier on 22 January (e.g., due to international flight schedules) can also check in earlier, including access to their rooms.
+So this really is a flexible rule... But note that there will not be any lunch on Sunday, the first meal on Sunday is dinner.
+For those staying until Saturday 28 January: checkout time is 9 am, so after breakfast. Participants should schedule their individual departure after checkout (so it is not possible to stay in the castle until Saturday afternoon, say).
 
 ## <img height="25" src="static/img/hexagon.png"> JWST
 We are aware of the JWST Cycle 2 deadline, which is on
