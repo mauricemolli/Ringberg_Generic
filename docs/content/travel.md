@@ -59,7 +59,7 @@ Also check out their [cool video](https://youtu.be/uELPUedThlI)...
 Those who will arrive by rental car or with their own car: please note that winter equipment may be required
 when driving up to the castle in case of snow! Depending on the conditions, you may need snow chains,
 or a four-wheel drive. As an alternative option, guests can park
-at the <a href="https://goo.gl/maps/yR5jeWb2WEHnQPNXA">lower winter parking lot</a>
+at the <a href="https://goo.gl/maps/nHMrQQVm8xS2uWSD6">lower winter parking lot</a>
 (enter Schlossstraße, turn right after about 50 m) and take
 Taxi Jasinsky (08022/95099) or Happy Taxi (0175/9001001) up.
 For a demonstration of where to park, and the snow conditions on the drive up, 
